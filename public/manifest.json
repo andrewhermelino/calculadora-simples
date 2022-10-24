@@ -1,6 +1,6 @@
 {
-  "short_name": "Calculadora",
-  "name": "Calculadora simples",
+  "short_name": "calculadora-teste",
+  "name": "calculadora-simples-teste",
   "icons": [
     {
       "src": "imagens/icones/maskable_icon.png",

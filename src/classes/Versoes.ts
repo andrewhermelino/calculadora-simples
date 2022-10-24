@@ -86,7 +86,7 @@ class Versoes {
 
     public obterDescricaoDeVersao() {
         const versaoAtual = this.obterVersaoAtual();
-        return `${versaoAtual.obterPrefixo()}-${versaoAtual.obterVersao()}`;
+        return `${versaoAtual.obterPrefixo()}-${versaoAtual.obterVersao()}-teste`;
     }
 
 }
